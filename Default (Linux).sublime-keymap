@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+alt+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
+	{ "keys": ["super+shift+h"], "command": "htmlprettify" }
+]

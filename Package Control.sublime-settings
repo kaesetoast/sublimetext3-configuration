@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"Console API Snippets (JavaScript)",
+		"DocBlockr",
+		"eco",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Inc-Dec-Value",
+		"Jade",
+		"Laravel 4 Artisan",
+		"Laravel Blade Highlighter",
+		"Laravel Snippets",
+		"Package Control",
+		"PHP-Twig",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"tern_for_sublime"
+	]
+}
