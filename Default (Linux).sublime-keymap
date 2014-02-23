@@ -1,5 +1,7 @@
 [
 	{ "keys": ["ctrl+alt+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
 	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
-	{ "keys": ["super+shift+h"], "command": "htmlprettify" }
+	{ "keys": ["super+shift+h"], "command": "htmlprettify" },
+	{ "keys": ["control+keypad_divide"],"command": "toggle_comment", "args": {"block": false}},
+	{ "keys": ["shift+control+keypad_divide"],"command": "toggle_comment", "args": {"block": true}}
 ]
