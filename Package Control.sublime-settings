@@ -25,6 +25,8 @@
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
 		"tern_for_sublime"
 	]
 }
