@@ -18,9 +18,13 @@
 		"Markdown Preview",
 		"Package Control",
 		"PHP-Twig",
+		"Predawn",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
 		"tern_for_sublime"
 	]
 }
