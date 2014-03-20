@@ -9,5 +9,6 @@
 	],
 	"indent_to_bracket": false,
 	"theme": "predawn.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"tabs_medium": true 
 }
