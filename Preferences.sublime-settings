@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/predawn (SL).tmTheme",
+	"color_scheme": "Packages/User/Afterglow-monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": "all",
 	"font_size": 10,
@@ -8,7 +8,8 @@
 		"Vintage"
 	],
 	"indent_to_bracket": false,
-	"theme": "predawn.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"tabs_medium": true 
+	"status_bar_brighter": true,
+	"tabs_medium": true,
+	"theme": "Afterglow-orange.sublime-theme",
+	"translate_tabs_to_spaces": true
 }

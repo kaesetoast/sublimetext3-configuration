@@ -18,9 +18,9 @@
 		"Laravel 4 Artisan",
 		"Laravel Blade Highlighter",
 		"Markdown Preview",
+		"Mocha Snippets",
 		"Package Control",
 		"PHP-Twig",
-		"Predawn",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
@@ -29,6 +29,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"tern_for_sublime"
+		"tern_for_sublime",
+		"Theme - Afterglow"
 	]
 }
