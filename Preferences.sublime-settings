@@ -11,5 +11,6 @@
 	"status_bar_brighter": true,
 	"tabs_medium": true,
 	"theme": "Afterglow-orange.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"tern_command": ["node", "/usr/local/bin/tern"]
 }
