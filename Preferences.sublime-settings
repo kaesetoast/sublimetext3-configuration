@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/User/Afterglow-monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": "all",
+	"font_face": "Liberation Mono",
 	"font_size": 10,
 	"ignored_packages":
 	[
@@ -10,7 +11,11 @@
 	"indent_to_bracket": false,
 	"status_bar_brighter": true,
 	"tabs_medium": true,
-	"theme": "Afterglow-orange.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"tern_command": ["node", "/usr/local/bin/tern"]
+	"tern_command":
+	[
+		"node",
+		"/usr/local/bin/tern"
+	],
+	"theme": "predawn.sublime-theme",
+	"translate_spaces_to_tabs": true
 }
