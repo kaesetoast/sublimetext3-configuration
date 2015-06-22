@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AutoFileName",
 		"Blade Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
@@ -14,13 +15,16 @@
 		"eco",
 		"Emmet",
 		"GitGutter",
+		"HTML Mustache",
 		"HTML-CSS-JS Prettify",
 		"Inc-Dec-Value",
 		"Jade",
 		"Laravel 4 Artisan",
 		"Laravel Blade Highlighter",
 		"Markdown Preview",
+		"Material Theme",
 		"Mocha Snippets",
+		"Mustang Color Scheme",
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP-Twig",
@@ -34,6 +38,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"tern_for_sublime",
-		"Theme - Afterglow"
+		"Theme - Afterglow",
+		"TypoScript"
 	]
 }

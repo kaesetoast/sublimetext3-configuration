@@ -1,5 +1,19 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+	"afn_insert_dimensions": false,
+	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Material-Theme (SL).tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": "all",
 	"font_face": "Liberation Mono",
@@ -8,7 +22,13 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"indent_to_bracket": false,
+	"overlay_scroll_bars": "enabled",
 	"status_bar_brighter": true,
 	"tabs_medium": true,
 	"tern_command":
@@ -16,6 +36,6 @@
 		"node",
 		"/usr/local/bin/tern"
 	],
-	"theme": "predawn.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_spaces_to_tabs": true
 }
